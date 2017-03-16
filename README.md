@@ -1,0 +1,1 @@
+A simple SDK to help you write DLLs that have nothing in the IAT and load dependencies at runtime. Essentially use this when you want to use -nostdlib for some reason.
